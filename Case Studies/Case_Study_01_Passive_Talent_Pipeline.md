@@ -10,7 +10,7 @@
 | Hiring Type | Niche Passive Hiring |
 | Hiring Volume | 1 Critical Requisition, Target Pipeline of 8 Qualified Candidates |
 | Sourcing Approach | Competitor Mapping, Boolean Search, Passive Candidate Engagement, Employee Referrals |
-| Duration | 6 Weeks |
+| Duration | 4 Weeks |
 | Team | Talent Acquisition |
 | Status | Portfolio Case Study (Fictional, inspired by real-world recruiting experience) |
 
